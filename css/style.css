@@ -143,15 +143,14 @@ body {
   margin-top: -5rem;
 }
 .services-boxes {
-  border-radius: 4%;
+  border-radius: 2%;
 }
 
 /* Portfolio Section */
-.building-img {
-  width: 20%;
-}
+
 .card-portfolio {
-  border-radius: 4%;
+  border-radius: 2%;
+  height: 550px;
 }
 
 .card-text-portfolio:hover {
